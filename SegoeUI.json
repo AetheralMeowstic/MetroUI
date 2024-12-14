@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Segoe UI",
+    "previewText": "Segoe UI for Bunny",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI-Bold.ttf",
+        "ggsans-Bold": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI-Bold-Italic.ttf",
+        "ggsans-ExtraBold": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI-Bold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI-Bold-Italic.ttf",
+        "ggsans-Medium": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI.ttf",
+        "ggsans-MediumItalic": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI-Italic.ttf",
+        "ggsans-Normal": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI-Semilight.ttf",
+        "ggsans-NormalItalic": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI-Italic.ttf",
+        "ggsans-Semibold": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI-Semibold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI-Semibold-Italic.ttf",
+        "NotoSans-Bold": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI-Bold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI-Bold.ttf",
+        "NotoSans-Medium": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI.ttf",
+        "NotoSans-Normal": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI.ttf",
+        "NotoSans-NormalItalic": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI-Semilight-Italic.ttf",
+        "NotoSans-Semibold": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI-Semibold.ttf",
+        "SourceCodePro-Semibold": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI-Semibold.ttf"
+    }
+}
