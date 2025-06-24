@@ -1,7 +1,7 @@
 {
     "spec": 1,
-    "name": "Segoe UI",
-    "previewText": "Segoe UI for Bunny",
+    "name": "MetroUI",
+    "previewText": "MetroUI font pack for Revenge",
     "main": {
         "ABCGintoNord-ExtraBold": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI-Black.ttf",
         "ggsans-Bold": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI-Bold.ttf",
