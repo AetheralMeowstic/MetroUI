@@ -7,7 +7,7 @@
         "ggsans-Bold": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/segoe-wp-bold.ttf",
         "ggsans-BoldItalic": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI-Bold-Italic.otf",
         "ggsans-ExtraBold": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/segoe-wp-black.ttf",
-        "ggsans-ExtraBoldItalic": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI-Black-Italic.otf",
+        "ggsans-ExtraBoldItalic": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI-Black-Italic.ttf",
         "ggsans-Medium": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/segoe-wp.ttf",
         "ggsans-MediumItalic": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/Segoe-UI-Italic.otf",
         "ggsans-Normal": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/segoe-wp-semilight.ttf",
@@ -23,4 +23,5 @@
         "ggmono-Normal": "https://github.com/AetheralMeowstic/SegoeUI/raw/refs/heads/main/consolas.ttf"
     }
 }
+
 
